@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ihsanahsanuamala
-- 👀 I’m Data Engineer @BTPNS
+- 👀 I’m Data Engineer 
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/ihsanahsanuamala/
 
