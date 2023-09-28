@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ihsanahsanuamala
-- 👀 I’m interested in  Web and Data
+- 👀 I’m Data Engineer @BTPNS
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/ihsanahsanuamala/
 
